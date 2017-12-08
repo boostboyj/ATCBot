@@ -1,0 +1,27 @@
+<select class="PI__select PI__input js-select js-select-SIZE js-select-SIZE-static">
+<option value="">
+SIZE</option>
+<option value="707336503315">4</option>
+<option value="707336536083">4.5</option>
+<option value="707336568851">5</option>
+<option value="707336601619">5.5</option>
+<option value="707336634387">6</option>
+<option value="707336667155">6.5</option>
+<option value="707336699923">7</option>
+<option value="707336732691">7.5</option>
+<option value="707336765459">8</option>
+<option value="707336798227">8.5</option>
+<option value="707336830995">9</option>
+<option value="707336863763">9.5</option>
+<option value="707336896531">10</option>
+<option value="707336929299">10.5</option
+><option value="707336962067">11</option>
+<option value="707336994835">11.5</option>
+<option value="707337027603">12</option>
+<option value="707337060371" class="sold-out" disabled="">12.5</option>
+<option value="707337093139">13</option>
+<option value="707337125907" class="sold-out" disabled="">13.5</option>
+<option value="707337158675">14</option>
+<option value="707337191443" class="sold-out" disabled="">14.5</option>
+<option value="707337224211" class="sold-out" disabled="">15</option>
+<option value="707337256979" class="sold-out" disabled="">16</option></select>
